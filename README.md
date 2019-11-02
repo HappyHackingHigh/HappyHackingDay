@@ -68,7 +68,7 @@
 ```
 # NEXT:下次學習
 ```
-HappyPythonDay
+Happy*Python*Day
 
 HappyLinuxDay
 ```
